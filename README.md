@@ -4,7 +4,7 @@ The project aims to develop a Logistic Regression model specifically designed fo
 # Execution process
 
 ```
-git clone git@github.com:starvader13/Spam_Mail_Detection.git`
+git clone git@github.com:starvader13/Spam_Mail_Detection.git
 ```
 
 ```
